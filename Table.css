@@ -1,0 +1,15 @@
+table {
+    border: 1px solid skyblue;
+    }
+td:hover {
+    background-color: fuchsia;
+    color: black;
+}
+tr, th {
+    background-color: slategrey;
+    color: black;
+}
+tr, td {
+    background-color: coral;
+    color: black;
+}
