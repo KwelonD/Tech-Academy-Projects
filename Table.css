@@ -13,3 +13,6 @@ tr, td {
     background-color: coral;
     color: black;
 }
+p {
+    text-shadow: 2px 2px black;
+}
